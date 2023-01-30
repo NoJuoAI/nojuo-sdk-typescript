@@ -1,7 +1,10 @@
 {
-    "name": "nojuo",
-    "version": "0.2.0",
-    "description": "Library for accessing the NoJuo API",
-    "repository": "https://github.com/NoJuoAI/nojuo-sdk-typescript",
-    "private": false
+  "name": "nojuo",
+  "version": "0.2.0",
+  "description": "Library for accessing the NoJuo API",
+  "repository": "https://github.com/NoJuoAI/nojuo-sdk-typescript",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
